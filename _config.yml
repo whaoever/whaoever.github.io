@@ -8,8 +8,8 @@ permalink:           pretty
 title:               whaoever
 tagline:             'A Github Notebook'
 description:         '菜鸟的学习笔记'
-url:                 whaoever.github.io
-baseurl:             ''
+url:                 ''
+baseurl:             /whaoever.github.io
 paginate:            5
 
 plugins:
