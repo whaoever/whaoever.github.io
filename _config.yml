@@ -9,7 +9,7 @@ title:               whaoever
 tagline:             'A Github Notebook'
 description:         '菜鸟的学习笔记'
 url:                 ''
-baseurl:             /whaoever.github.io
+baseurl:             ''
 paginate:            5
 
 plugins:
