@@ -1,1 +1,25 @@
-baseurl: /whaoever.github.io
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+#relative_permalinks: true
+
+# Setup
+title:               whaoever
+tagline:             'A Github Notebook'
+description:         '菜鸟的学习笔记'
+url:                 whaoever.github.io
+baseurl:             ''
+paginate:            5
+
+plugins:
+    - jekyll-paginate
+
+# About/contact
+author:
+  name:              whaoever
+  url:               whaoever.github.io
+  email:             whaoever@gmail.com
+
+# Custom vars
+version:             1.0.0
