@@ -5,3 +5,4 @@ comments: true
 ---
 
 ## hello world
+![Jekyll](/public/img/jekyll-sticker.png)
